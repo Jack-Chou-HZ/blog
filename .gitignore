@@ -18,6 +18,7 @@ Icon
 *~
 frontend/.*
 frontend/out
+frontend/.next
 
 ############################
 # Windows
@@ -66,7 +67,7 @@ $RECYCLE.BIN/
 # Logs and databases
 ############################
 
-.tmp
+#.tmp
 *.log
 *.sql
 *.sqlite
